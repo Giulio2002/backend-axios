@@ -1,0 +1,17 @@
+{
+  "name": "relay-pivot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async-wait-until": "^1.2.4",
+    "dotenv": "^8.2.0",
+    "ethereum-blockies-base64": "^1.0.2",
+    "ethers": "^4.0.47",
+    "express": "^4.17.1",
+    "knex": "^0.21.1",
+    "pg": "^8.0.3"
+  }
+}
